@@ -29,7 +29,6 @@ To run from scratch:
 
 # Participating Institutions
 The University of Texas at El Paso (UTEP)  
-Universidad Autonoma de Chihuahua (UACH)   
 
 # Contributors
 Damian Gallegos Espinoza - UTEP   
