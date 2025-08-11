@@ -2,19 +2,25 @@
 
 **Data Exploration and Discussion**
 
-We will clean and use climate data from Google Earth Engine (GEE) to predict evapotranspiration (ET). For each technique, the input and output are as follows:
+We will clean and use climate data from Google Earth Engine (GEE) to predict evapotranspiration (ET).  For each technique, the input and output are as follows:
 
 **Input**: A raster image with a pixel resolution of 1000 meters.
 
 **Output**: Models that use some features to predict the target ET.
 
-We also estimate how well each model performs.
+**Models**
+  - Random Forest Regressor
+  - Multilayer Perceptron (MLP) 
+
+**Model Statistics and Analysis:**   
++ Feature Correlation Matrix
++ Shapley Additive Explanations (SHAP) 
 
 # Data Source
 Google Earth Engine Daymet V4: Daily Surface Weather and Climatological Summaries [Source](https://developers.google.com/earth-engine/datasets/catalog/NASA_ORNL_DAYMET_V4#bands)
 
 # Links to Google Colab Notebooks  
-+ Worink with Google Earth Engine (GEE): [Link](https://colab.research.google.com/drive/1kYd6yYcE9T_begejLNAZsq8rSI4PM98o?usp=sharing)      
++ Working with Google Earth Engine (GEE): [Link](https://colab.research.google.com/drive/1kYd6yYcE9T_begejLNAZsq8rSI4PM98o?usp=sharing)      
 
 # How to Run
 
@@ -22,10 +28,11 @@ The application code is made available as a Python notebook that can be executed
 Note that shared notebooks have been pre-executed, and runtime outputs are shown accordingly.   
 
 To run from scratch:   
-1. Open the Link to the target notebook.
-2. 
-3. To run model notebooks: .
-4. To execute the notebook, go to Runtime->Run all. Each code section can also be executed individually.
+1. Open the Link to the Working with Google Earth Engine (GEE) notebook.
+2. Go to the GEE Code Editor on the following link [GEE Code Editor](https://www.google.com/url?sa=D&q=https://code.earthengine.google.com/&ust=1754929416164522&usg=AOvVaw0vcMigCqS8q18KCJGc0f7i) and sign in. 
+3. Change the name of the Project inside the notebook and authenticate your account.
+4. To run model notebooks: Run the notebook and wait for a pop-up window to authenticate. The code should run without complications.
+5. To execute the notebook, go to Runtime->Run all. Each code section can also be executed individually.
 
 # Participating Institutions
 The University of Texas at El Paso (UTEP)  
