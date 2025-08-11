@@ -14,7 +14,7 @@ We also estimate how well each model performs.
 Google Earth Engine Daymet V4: Daily Surface Weather and Climatological Summaries [Source](https://developers.google.com/earth-engine/datasets/catalog/NASA_ORNL_DAYMET_V4#bands)
 
 # Links to Google Colab Notebooks  
-+ AI Seminar Colab: [Link](https://colab.research.google.com/drive/1kYd6yYcE9T_begejLNAZsq8rSI4PM98o?usp=sharing)      
++ Worink with Google Earth Engine (GEE): [Link](https://colab.research.google.com/drive/1kYd6yYcE9T_begejLNAZsq8rSI4PM98o?usp=sharing)      
 
 # How to Run
 
