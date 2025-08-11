@@ -1,4 +1,4 @@
-# AI Seminar: Data to Decisions: ML SOLUTIONS FOR WATER CHALLENGES IN THE BORDERLAND
+# Data to Decisions: ML SOLUTIONS FOR WATER CHALLENGES IN THE BORDERLAND
 
 **Data Exploration and Discussion**
 
