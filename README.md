@@ -48,13 +48,6 @@ Luis Garnica Chavira
     Computer Science,  UTEP
 
 # Acknowledgments 
-
-This work was supported by Microsoft.  
-
-This work used publicly available data provided by the Chihuahua Central Board of Water and Sanitation - Junta Central de Agua y Saneamiento (JCAS) in Spanish. 
-
-Content of this thesis was published in the paper “Towards Estimating Water Consumption in Semi-Arid Urban Landscaping: A Machine Learning Approach” at MICAI 2024 Conference, with contributions from co-authors: with contributions of the following co-authors: Luis Garnica Chavira, Natalia Villanueva-Rosales, Juan Manuel Rodríguez Gaeta & Carmen Julia Navarro Gómez.
-. First published in vol 15246, pp. 3–15, 2025 by Springer Nature. Reproduced with permission from Springer Nature. 
  
 This material is based upon work supported by the National Science Foundation under Award No. 2332774.
 Any opinions, findings, and conclusions or recommendations expressed in this material are those of the
