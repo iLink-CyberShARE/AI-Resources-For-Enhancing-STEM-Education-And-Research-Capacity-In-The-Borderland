@@ -69,9 +69,6 @@ This material is based upon work supported by the National Science Foundation un
 Any opinions, findings, and conclusions or recommendations expressed in this material are those of the
 author(s) and do not necessarily reflect the views of the National Science Foundation.
 
-<img width="6827" height="539" alt="image" src="https://github.com/user-attachments/assets/4bb1d328-878b-48f7-947d-ec29328b3510" />
-
-
 # License
 This software code is licensed under the [GNU GENERAL PUBLIC LICENSE v3.0](./LICENSE) and uses third-party libraries that are distributed under their own terms (see [LICENSE-3RD-PARTY.md](./LICENSE-3RD-PARTY.md)).
 
