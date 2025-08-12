@@ -47,15 +47,6 @@ Natalia Villanueva Rosales
 Luis Garnica Chavira
     Computer Science,  UTEP
 
-Juan Manuel Rodríguez Gaeta
-   Agrotechnological Sciences,  UACH 
-
-Carmen Julia Navarro Gómez 
-    Faculty of Engineering, UACH 
-
-Hugo Gutierrez
-    Earth, Environmental and Resource Sciences, UTEP
-
 # Acknowledgments 
 
 This work was supported by Microsoft.  
