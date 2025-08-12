@@ -13,14 +13,14 @@ We will clean and use climate data from Google Earth Engine (GEE) to predict eva
   - Multilayer Perceptron (MLP) 
 
 **Model Statistics and Analysis:**   
-+ Feature Correlation Matrix
 + Shapley Additive Explanations (SHAP) 
 
 # Data Source
 Google Earth Engine Daymet V4: Daily Surface Weather and Climatological Summaries [Source](https://developers.google.com/earth-engine/datasets/catalog/NASA_ORNL_DAYMET_V4#bands)
 
 # Links to Google Colab Notebooks  
-+ Working with Google Earth Engine (GEE): [Link](https://colab.research.google.com/drive/1kYd6yYcE9T_begejLNAZsq8rSI4PM98o?usp=sharing)      
++ Working with Google Earth Engine (GEE): [Link](https://colab.research.google.com/drive/1kYd6yYcE9T_begejLNAZsq8rSI4PM98o?usp=sharing)
++ Additional Classification Notebook [Link](https://colab.research.google.com/drive/1e5W2TZ2Zs5dX6V0F5eNVWcV8t3e7uNqU?usp=sharing)
 
 # How to Run
 
