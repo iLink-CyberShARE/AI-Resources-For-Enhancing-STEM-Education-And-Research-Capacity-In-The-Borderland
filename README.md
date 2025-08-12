@@ -38,8 +38,39 @@ To run from scratch:
 The University of Texas at El Paso (UTEP)  
 
 # Contributors
-Damian Gallegos Espinoza - UTEP   
-Natalia Villanueva Rosales - UTEP  
+Damian Gallegos Espinoza 
+    Computer Science,  UTEP
+    
+Natalia Villanueva Rosales 
+    Computer Science,  UTEP
+
+Luis Garnica Chavira
+    Computer Science,  UTEP
+
+Juan Manuel Rodríguez Gaeta
+   Agrotechnological Sciences,  UACH 
+
+Carmen Julia Navarro Gómez 
+    Faculty of Engineering, UACH 
+
+Hugo Gutierrez
+    Earth, Environmental and Resource Sciences, UTEP
+
+# Acknowledgments 
+
+This work was supported by Microsoft.  
+
+This work used publicly available data provided by the Chihuahua Central Board of Water and Sanitation - Junta Central de Agua y Saneamiento (JCAS) in Spanish. 
+
+Content of this thesis was published in the paper “Towards Estimating Water Consumption in Semi-Arid Urban Landscaping: A Machine Learning Approach” at MICAI 2024 Conference, with contributions from co-authors: with contributions of the following co-authors: Luis Garnica Chavira, Natalia Villanueva-Rosales, Juan Manuel Rodríguez Gaeta & Carmen Julia Navarro Gómez.
+. First published in vol 15246, pp. 3–15, 2025 by Springer Nature. Reproduced with permission from Springer Nature. 
+ 
+This material is based upon work supported by the National Science Foundation under Award No. 2332774.
+Any opinions, findings, and conclusions or recommendations expressed in this material are those of the
+author(s) and do not necessarily reflect the views of the National Science Foundation.
+
+<img width="6827" height="539" alt="image" src="https://github.com/user-attachments/assets/4bb1d328-878b-48f7-947d-ec29328b3510" />
+
 
 # License
 This software code is licensed under the [GNU GENERAL PUBLIC LICENSE v3.0](./LICENSE) and uses third-party libraries that are distributed under their own terms (see [LICENSE-3RD-PARTY.md](./LICENSE-3RD-PARTY.md)).
