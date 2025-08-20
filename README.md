@@ -1,4 +1,5 @@
-# DATA TO DECISIONS: ML SOLUTIONS FOR WATER CHALLENGES IN THE BORDERLAND
+# AI Resources For Enhancing STEM Education And Research Capacity In The Borderland
+
 
 **Data Exploration and Discussion**
 
