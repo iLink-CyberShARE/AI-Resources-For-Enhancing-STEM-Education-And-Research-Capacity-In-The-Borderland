@@ -1,4 +1,4 @@
-# AI Resources For Enhancing STEM Education And Research Capacity In The Borderland
+# AI Resources For Enhancing STEM Education And Research Capacity In The Borderland Region
 
 
 **Data Exploration and Discussion**
