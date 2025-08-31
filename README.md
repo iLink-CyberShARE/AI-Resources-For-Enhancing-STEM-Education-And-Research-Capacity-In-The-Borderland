@@ -1,39 +1,35 @@
 # AI Resources For Enhancing STEM Education And Research Capacity In The Borderland Region
 
-
-**Data Exploration and Discussion**
-
-We will clean and use climate data from Google Earth Engine (GEE) to predict evapotranspiration (ET).  For each technique, the input and output are as follows:
-
-**Input**: A raster image with a pixel resolution of 1000 meters.
-
-**Output**: Models that use some features to predict the target ET.
+This GitHub repository aims to further disseminate AI knowledge in the border region. For this purpose, several Colab Notebooks were created on several different topics. 
+  - Computer Vision using remote sensing data from Google Earth Engine (GEE).
+  - Classification using the UCI mushroom dataset. 
+  - Natural Language by implementing word embeddings and a sentiment analysis example. 
 
 **Models**
   - Random Forest Regressor
-  - Multilayer Perceptron (MLP) 
+  - Multilayer Perceptron (MLP)
+  - Long Short-Term Memory (LSTM)
+  - Decision Trees and T-SNE Cluster analysis.
 
 **Model Statistics and Analysis:**   
-+ Shapley Additive Explanations (SHAP) 
++ Shapley Additive Explanations (SHAP) were implemented for the computer vision topic. 
 
 # Data Source
-Google Earth Engine Daymet V4: Daily Surface Weather and Climatological Summaries [Source](https://developers.google.com/earth-engine/datasets/catalog/NASA_ORNL_DAYMET_V4#bands)
+ - Cumputer Vision: Google Earth Engine Daymet V4: Daily Surface Weather and Climatological Summaries [Source](https://developers.google.com/earth-engine/datasets/catalog/NASA_ORNL_DAYMET_V4#bands)
+ - Classification: [Source](https://doi.org/10.24432/C5959T) 
 
 # Links to Google Colab Notebooks  
 + Working with Google Earth Engine (GEE): [Link](https://colab.research.google.com/drive/1kYd6yYcE9T_begejLNAZsq8rSI4PM98o?usp=sharing)
-+ Additional Classification Notebook [Link](https://colab.research.google.com/drive/1e5W2TZ2Zs5dX6V0F5eNVWcV8t3e7uNqU?usp=sharing)
++ Classification Notebook: [Link](https://colab.research.google.com/drive/1e5W2TZ2Zs5dX6V0F5eNVWcV8t3e7uNqU?usp=sharing)
++ Word Embeddings and Sentiment Analysis: [Link](https://colab.research.google.com/drive/1v8QdPG6nO0AyQ3PIN-e8V17OBWpAo-_n?usp=sharing).
 
 # How to Run
 
-The application code is made available as a Python notebook that can be executed online with Google Colab.    
-Note that shared notebooks have been pre-executed, and runtime outputs are shown accordingly.   
+All code is made available as a Python notebook that can be executed online with Google Colab.       
 
 To run from scratch:   
-1. Open the Link to the Working with Google Earth Engine (GEE) notebook.
-2. Go to the GEE Code Editor on the following link [GEE Code Editor](https://www.google.com/url?sa=D&q=https://code.earthengine.google.com/&ust=1754929416164522&usg=AOvVaw0vcMigCqS8q18KCJGc0f7i) and sign in. 
-3. Change the name of the Project inside the notebook and authenticate your account.
-4. To run model notebooks: Run the notebook and wait for a pop-up window to authenticate. The code should run without complications.
-5. To execute the notebook, go to Runtime->Run all. Each code section can also be executed individually.
+1. Open the Link notebook.
+2. To execute the notebook, go to Runtime->Run all. Each code section can also be executed individually.
 
 # Participating Institutions
 The University of Texas at El Paso (UTEP)  
