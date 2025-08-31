@@ -14,9 +14,10 @@ This GitHub repository aims to further disseminate AI knowledge in the border re
 **Model Statistics and Analysis:**   
 + Shapley Additive Explanations (SHAP) were implemented for the computer vision topic. 
 
-# Data Source
+# Data Sources
  - Cumputer Vision: Google Earth Engine Daymet V4: Daily Surface Weather and Climatological Summaries [Source](https://developers.google.com/earth-engine/datasets/catalog/NASA_ORNL_DAYMET_V4#bands)
- - Classification: [Source](https://doi.org/10.24432/C5959T) 
+ - Classification: [Source](https://doi.org/10.24432/C5959T)
+ - Word Embeddings: [Source](https://doi.org/10.48550/arXiv.2507.18103)
 
 # Links to Google Colab Notebooks  
 + Working with Google Earth Engine (GEE): [Link](https://colab.research.google.com/drive/1kYd6yYcE9T_begejLNAZsq8rSI4PM98o?usp=sharing)
@@ -56,7 +57,8 @@ This software code is licensed under the [GNU GENERAL PUBLIC LICENSE v3.0](./LIC
 # References 
 [1] M. M. Thornton, R. Shrestha, Y. Wei, P. E. Thornton, and S.-C. Kao, “Daymet: Daily Surface Weather Data on a 1-km Grid for North America, Version 4,” ORNL DAAC, Dec. 2020, doi: 10.3334/ORNLDAAC/1840. <br><br>
 [2] M. M. Thornton, R. Shrestha, Y. Wei, P. E. Thornton, and S.-C. Kao, “Daymet: Daily Surface Weather Data on a 1-km Grid for North America, Version 4 R1,” ORNL DAAC, Nov. 2022, doi: 10.3334/ORNLDAAC/2129.
-[3] R. Carlson, J. Bauer, and C. D. Manning, “A New Pair of GloVes,” July 24, 2025, arXiv: arXiv:2507.18103. doi: 10.48550/arXiv.2507.18103.
+[3] "Mushroom," UCI Machine Learning Repository, 1981. [Online]. Available: https://doi.org/10.24432/C5959T.
+[4] R. Carlson, J. Bauer, and C. D. Manning, “A New Pair of GloVes,” July 24, 2025, arXiv: arXiv:2507.18103. doi: 10.48550/arXiv.2507.18103.
 
 
 
