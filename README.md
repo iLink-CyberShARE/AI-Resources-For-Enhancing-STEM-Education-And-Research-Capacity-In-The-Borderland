@@ -56,6 +56,7 @@ This software code is licensed under the [GNU GENERAL PUBLIC LICENSE v3.0](./LIC
 # References 
 [1] M. M. Thornton, R. Shrestha, Y. Wei, P. E. Thornton, and S.-C. Kao, “Daymet: Daily Surface Weather Data on a 1-km Grid for North America, Version 4,” ORNL DAAC, Dec. 2020, doi: 10.3334/ORNLDAAC/1840. <br><br>
 [2] M. M. Thornton, R. Shrestha, Y. Wei, P. E. Thornton, and S.-C. Kao, “Daymet: Daily Surface Weather Data on a 1-km Grid for North America, Version 4 R1,” ORNL DAAC, Nov. 2022, doi: 10.3334/ORNLDAAC/2129.
+[3] R. Carlson, J. Bauer, and C. D. Manning, “A New Pair of GloVes,” July 24, 2025, arXiv: arXiv:2507.18103. doi: 10.48550/arXiv.2507.18103.
 
 
 
